@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @the-douglas-soares
 - 👀 I’m interested in Backend, Nodejs, Microservices, SOA Architecture and so on
-- 🌱 I’m currently learning Backend technologies, DDD, Microservices
 - 📫 How to reach me thedouglassoares@gmail.com
 
 <!---
